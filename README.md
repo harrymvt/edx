@@ -1,3 +1,3 @@
 # edx
-Jupyter notebooks for IBM DS0720EN
+Jupyter notebooks for IBM DS0720EN: 
 Data Science and Machine Learning Capstone Project
